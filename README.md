@@ -1,5 +1,7 @@
 # Student Performance Analytics
 
+Full Report: [View Final Insights Report](reports/final_insights.md)
+
 ## Project Overview
 
 This Data Analyst portfolio project analyzes student exam performance data to identify factors associated with academic outcomes. The project uses PostgreSQL for database storage and SQL analysis, and Python with pandas and matplotlib for data exploration and visualization.
