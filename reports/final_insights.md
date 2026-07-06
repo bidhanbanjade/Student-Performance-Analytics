@@ -167,7 +167,3 @@ This project can be improved in the future by:
 - Adding predictive analysis using machine learning
 - Comparing student performance across more detailed socioeconomic variables
 - Creating an interactive dashboard for easier exploration
-
-## 13. Resume Summary
-
-This project involved building an end-to-end data analytics workflow using PostgreSQL, SQL, Python, pandas, and Jupyter Notebook. The project analyzed student exam performance data, created SQL views and calculated fields, visualized key trends, and summarized insights in a GitHub-ready portfolio report.
